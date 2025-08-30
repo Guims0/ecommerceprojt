@@ -1,0 +1,7 @@
+package com.estopa.ecommerce.model;
+
+
+public class Cliente{
+
+
+}
